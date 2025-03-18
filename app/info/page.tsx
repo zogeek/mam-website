@@ -191,7 +191,7 @@ export default function Home() {
                         une continuité entre la vie de l'enfant à domicile et à
                         la MAM.
                         <br />
-                        
+                        <br />
                         Les parents sont sollicités lors d&apos;événements ou
                         de différentes ventes au profit de l'association afin
                         d'améliorer le quotidien des enfants accueillis. Les
